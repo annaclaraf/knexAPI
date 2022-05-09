@@ -1,3 +1,3 @@
 # Knex API
 
-Firts time using knex.js
+Primeiro projeto usando knex.js
